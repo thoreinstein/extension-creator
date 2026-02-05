@@ -1,0 +1,2 @@
+description = "Create a new Gemini CLI extension"
+prompt = "I want to create a new Gemini CLI extension. Please activate the 'extension-expert' skill and guide me through the process."

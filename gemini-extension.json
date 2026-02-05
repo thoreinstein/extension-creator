@@ -1,0 +1,10 @@
+{
+  "name": "extensions-creator",
+  "version": "1.0.0",
+  "description": "A helper extension to scaffold and create new Gemini CLI extensions with best practices.",
+  "permissions": [
+    "run_shell_command",
+    "write_file",
+    "read_file"
+  ]
+}
